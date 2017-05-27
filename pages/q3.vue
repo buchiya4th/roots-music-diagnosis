@@ -1,8 +1,0 @@
-<template lang="pug">
-.gameContent.container
-  p.questionText
-    | ファッションはシンプルが好き。
-  ul.answerList
-    li: router-link(to="/q5/") はい
-    li: router-link(to="/q6/") いいえ
-</template>

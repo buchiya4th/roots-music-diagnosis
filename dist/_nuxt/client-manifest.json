@@ -1,70 +1,70 @@
 {
   "publicPath": "/roots-music-diagnosis/dist/_nuxt/",
   "all": [
-    "13.nuxt.bundle.e631831ad7a0352e2292.js",
+    "13.nuxt.bundle.8ca85175932e6e684be4.js",
     "0.nuxt.bundle.831f79839832e7b5d0de.js",
-    "2.nuxt.bundle.7bb7971ae5f3f1beec38.js",
-    "3.nuxt.bundle.3236811a54cfe7d8fcf7.js",
-    "4.nuxt.bundle.81370e4d60f4be39bbb5.js",
-    "5.nuxt.bundle.3e3b95133a625821bc38.js",
-    "6.nuxt.bundle.940c18339fb417b4d1c3.js",
-    "7.nuxt.bundle.8e70636e3b1ee976d246.js",
-    "8.nuxt.bundle.10195476808aa79eeb87.js",
-    "9.nuxt.bundle.fad3faeacb81d3d55257.js",
-    "10.nuxt.bundle.7615a9ede170ecc10e83.js",
-    "11.nuxt.bundle.887c9d23b36a96ec98eb.js",
-    "12.nuxt.bundle.ce4a57ac7817a70cc493.js",
-    "1.nuxt.bundle.8c985f4f5e2c1fb1c693.js",
-    "14.nuxt.bundle.64131466b5817078454a.js",
-    "15.nuxt.bundle.f9e607af7f947ee31c27.js",
-    "16.nuxt.bundle.b97b3af0bbdfa096262c.js",
-    "17.nuxt.bundle.6cb3a9f745d0a2756ed6.js",
-    "18.nuxt.bundle.54a63079a83c3c1d3e62.js",
-    "19.nuxt.bundle.88753403742c051f4aa8.js",
-    "20.nuxt.bundle.03a95b37f4d119a9e9d1.js",
-    "21.nuxt.bundle.7b48af60b06e48ce5abb.js",
-    "22.nuxt.bundle.1505d276cde585926b94.js",
+    "2.nuxt.bundle.6d7feafc0ab1999c9eb2.js",
+    "3.nuxt.bundle.d1393a09a7c1a680fca9.js",
+    "4.nuxt.bundle.f2c7cf4cb355f7386316.js",
+    "5.nuxt.bundle.a8e9446ebceeb6451142.js",
+    "6.nuxt.bundle.1f23087e80305bb18bff.js",
+    "7.nuxt.bundle.feee15af0575652f05b2.js",
+    "8.nuxt.bundle.2dbb10ee54fa7e3e0178.js",
+    "9.nuxt.bundle.b4b2f48522abda36ff11.js",
+    "10.nuxt.bundle.88aa274802e8b23dc071.js",
+    "11.nuxt.bundle.380968eaa69e42edfd94.js",
+    "12.nuxt.bundle.d38ae328906779d9af10.js",
+    "1.nuxt.bundle.4c40bf74feb5ed333870.js",
+    "14.nuxt.bundle.5d4d1c302de1c23570b5.js",
+    "15.nuxt.bundle.47d9f25a68e83ee712a8.js",
+    "16.nuxt.bundle.a3285cc284cdb632d533.js",
+    "17.nuxt.bundle.c52342508ca9882ff731.js",
+    "18.nuxt.bundle.cfb28535077dd36f6c19.js",
+    "19.nuxt.bundle.489e8cef55dea017501e.js",
+    "20.nuxt.bundle.01ba04c50de1d1ce529f.js",
+    "21.nuxt.bundle.df584c022774277f3f07.js",
+    "22.nuxt.bundle.a2b398927af9eca53db6.js",
     "vendor.bundle.c0b0e467445fb591fe17.js",
-    "nuxt.bundle.955a65abc97ec4924247.js",
-    "manifest.2caaa14fba31d5852b21.js",
+    "nuxt.bundle.ced4f66035761d3c1866.js",
+    "manifest.6a0bc29079d8a097c8fd.js",
     "index.html"
   ],
   "initial": [
-    "manifest.2caaa14fba31d5852b21.js",
+    "manifest.6a0bc29079d8a097c8fd.js",
     "vendor.bundle.c0b0e467445fb591fe17.js",
-    "nuxt.bundle.955a65abc97ec4924247.js"
+    "nuxt.bundle.ced4f66035761d3c1866.js"
   ],
   "async": [
-    "13.nuxt.bundle.e631831ad7a0352e2292.js",
+    "13.nuxt.bundle.8ca85175932e6e684be4.js",
     "0.nuxt.bundle.831f79839832e7b5d0de.js",
-    "2.nuxt.bundle.7bb7971ae5f3f1beec38.js",
-    "3.nuxt.bundle.3236811a54cfe7d8fcf7.js",
-    "4.nuxt.bundle.81370e4d60f4be39bbb5.js",
-    "5.nuxt.bundle.3e3b95133a625821bc38.js",
-    "6.nuxt.bundle.940c18339fb417b4d1c3.js",
-    "7.nuxt.bundle.8e70636e3b1ee976d246.js",
-    "8.nuxt.bundle.10195476808aa79eeb87.js",
-    "9.nuxt.bundle.fad3faeacb81d3d55257.js",
-    "10.nuxt.bundle.7615a9ede170ecc10e83.js",
-    "11.nuxt.bundle.887c9d23b36a96ec98eb.js",
-    "12.nuxt.bundle.ce4a57ac7817a70cc493.js",
-    "1.nuxt.bundle.8c985f4f5e2c1fb1c693.js",
-    "14.nuxt.bundle.64131466b5817078454a.js",
-    "15.nuxt.bundle.f9e607af7f947ee31c27.js",
-    "16.nuxt.bundle.b97b3af0bbdfa096262c.js",
-    "17.nuxt.bundle.6cb3a9f745d0a2756ed6.js",
-    "18.nuxt.bundle.54a63079a83c3c1d3e62.js",
-    "19.nuxt.bundle.88753403742c051f4aa8.js",
-    "20.nuxt.bundle.03a95b37f4d119a9e9d1.js",
-    "21.nuxt.bundle.7b48af60b06e48ce5abb.js",
-    "22.nuxt.bundle.1505d276cde585926b94.js"
+    "2.nuxt.bundle.6d7feafc0ab1999c9eb2.js",
+    "3.nuxt.bundle.d1393a09a7c1a680fca9.js",
+    "4.nuxt.bundle.f2c7cf4cb355f7386316.js",
+    "5.nuxt.bundle.a8e9446ebceeb6451142.js",
+    "6.nuxt.bundle.1f23087e80305bb18bff.js",
+    "7.nuxt.bundle.feee15af0575652f05b2.js",
+    "8.nuxt.bundle.2dbb10ee54fa7e3e0178.js",
+    "9.nuxt.bundle.b4b2f48522abda36ff11.js",
+    "10.nuxt.bundle.88aa274802e8b23dc071.js",
+    "11.nuxt.bundle.380968eaa69e42edfd94.js",
+    "12.nuxt.bundle.d38ae328906779d9af10.js",
+    "1.nuxt.bundle.4c40bf74feb5ed333870.js",
+    "14.nuxt.bundle.5d4d1c302de1c23570b5.js",
+    "15.nuxt.bundle.47d9f25a68e83ee712a8.js",
+    "16.nuxt.bundle.a3285cc284cdb632d533.js",
+    "17.nuxt.bundle.c52342508ca9882ff731.js",
+    "18.nuxt.bundle.cfb28535077dd36f6c19.js",
+    "19.nuxt.bundle.489e8cef55dea017501e.js",
+    "20.nuxt.bundle.01ba04c50de1d1ce529f.js",
+    "21.nuxt.bundle.df584c022774277f3f07.js",
+    "22.nuxt.bundle.a2b398927af9eca53db6.js"
   ],
   "modules": {
     "18313516": [
       13
     ],
-    "28794781": [
-      17
+    "37281035": [
+      3
     ],
     "55558259": [
       23
@@ -489,68 +489,68 @@
     "979480ac": [
       1
     ],
-    "2832d1fc": [
+    "c535d864": [
       22
     ],
-    "2840e97d": [
+    "c519a962": [
       21
     ],
-    "284f00fe": [
+    "c4fd7a60": [
       20
     ],
-    "285d187f": [
+    "c4e14b5e": [
       19
     ],
-    "286b3000": [
+    "c4c51c5c": [
       18
+    ],
+    "c4a8ed5a": [
+      17
+    ],
+    "36c56bae": [
+      16
+    ],
+    "bc38f71c": [
+      15
+    ],
+    "bc1cc81a": [
+      14
+    ],
+    "bc009918": [
+      0
+    ],
+    "bbe46a16": [
+      12
+    ],
+    "bbc83b14": [
+      11
+    ],
+    "bbac0c12": [
+      10
+    ],
+    "36d3832f": [
+      9
+    ],
+    "36e19ab0": [
+      8
+    ],
+    "36efb231": [
+      7
+    ],
+    "36fdc9b2": [
+      6
+    ],
+    "370be133": [
+      5
+    ],
+    "3719f8b4": [
+      4
+    ],
+    "373627b6": [
+      2
     ],
     "606e7276": [
       13
-    ],
-    "43805bec": [
-      16
-    ],
-    "2c869bf4": [
-      15
-    ],
-    "2c94b375": [
-      14
-    ],
-    "2ca2caf6": [
-      0
-    ],
-    "2cb0e277": [
-      12
-    ],
-    "2cbef9f8": [
-      11
-    ],
-    "2ccd1179": [
-      10
-    ],
-    "438e736d": [
-      9
-    ],
-    "439c8aee": [
-      8
-    ],
-    "43aaa26f": [
-      7
-    ],
-    "43b8b9f0": [
-      6
-    ],
-    "43c6d171": [
-      5
-    ],
-    "43d4e8f2": [
-      4
-    ],
-    "43e30073": [
-      3
-    ],
-    "43f117f4": [
-      2
     ],
     "1871ccc2": [
       1
@@ -576,71 +576,71 @@
     "1d41aa5a": [
       1
     ],
+    "405caefa": [
+      22
+    ],
+    "616b0248": [
+      21
+    ],
+    "83b29826": [
+      20
+    ],
+    "c4459acc": [
+      19
+    ],
+    "de85fda6": [
+      18
+    ],
+    "2551bbdc": [
+      17
+    ],
     "602a04d9": [
       13
     ],
-    "3910f1e8": [
-      10
-    ],
-    "737e45f3": [
-      11
-    ],
-    "16abdc7e": [
-      12
-    ],
-    "d44e6b22": [
-      0
-    ],
-    "397d5006": [
-      14
-    ],
-    "8add0e68": [
+    "7476cf7f": [
       15
     ],
-    "58bb4182": [
+    "2461ed3c": [
+      14
+    ],
+    "23fe6b01": [
+      0
+    ],
+    "57f14f36": [
+      12
+    ],
+    "12e6edaa": [
+      11
+    ],
+    "b310b230": [
+      10
+    ],
+    "140e7d40": [
       2
     ],
-    "29ec0db1": [
+    "13daaafe": [
       3
     ],
-    "368237be": [
+    "60048bb8": [
       4
     ],
-    "d2c3014e": [
+    "5c8284fa": [
       5
     ],
-    "0ed32470": [
+    "3aad49e1": [
       6
     ],
-    "203563d0": [
+    "995ed2a0": [
       7
     ],
-    "aa8fb6f0": [
+    "20ceff02": [
       8
     ],
-    "f3109c62": [
+    "618ae494": [
       9
     ],
-    "35d4dde6": [
+    "3fb5a97b": [
       16
-    ],
-    "83f00840": [
-      17
-    ],
-    "749f9509": [
-      18
-    ],
-    "2f726b79": [
-      19
-    ],
-    "00a337a8": [
-      20
-    ],
-    "67afe2f8": [
-      21
-    ],
-    "0075f364": [
-      22
     ],
     "3ce0d33c": [
       1

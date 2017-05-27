@@ -6,7 +6,7 @@
         br
         | これで今日聴く音楽は決まり！
       ul.answerList
-        li: router-link(to="/q1/") スタート
+        li: router-link(to="/q/q1/") スタート
 </template>
 
 <style>
