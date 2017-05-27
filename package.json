@@ -1,0 +1,33 @@
+{
+  "name": "roots-music-diagnosis",
+  "version": "1.0.0",
+  "description": "ルーツ音楽診断",
+  "author": "buchiya4th <buchiya4th@gmail.com>",
+  "private": true,
+  "dependencies": {
+    "nuxt": "latest"
+  },
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "precommit": "npm run lint",
+    "dev:scss": "node-sass assets/scss/style.scss --output-style compressed assets/css/style.css -w --source-map true",
+    "watch": "run-p dev dev:scss"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.1.1",
+    "eslint": "^3.15.0",
+    "eslint-config-standard": "^6.2.1",
+    "eslint-loader": "^1.6.1",
+    "eslint-plugin-html": "^2.0.0",
+    "eslint-plugin-promise": "^3.4.1",
+    "eslint-plugin-standard": "^2.0.1",
+    "node-sass": "^4.5.3",
+    "npm-run-all": "^4.0.2",
+    "pug": "^2.0.0-rc.1",
+    "sass-loader": "^6.0.5"
+  }
+}
