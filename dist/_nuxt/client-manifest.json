@@ -1,69 +1,69 @@
 {
   "publicPath": "/roots-music-diagnosis/dist/_nuxt/",
   "all": [
-    "13.nuxt.bundle.8ca85175932e6e684be4.js",
-    "0.nuxt.bundle.831f79839832e7b5d0de.js",
-    "2.nuxt.bundle.6d7feafc0ab1999c9eb2.js",
-    "3.nuxt.bundle.d1393a09a7c1a680fca9.js",
-    "4.nuxt.bundle.f2c7cf4cb355f7386316.js",
-    "5.nuxt.bundle.a8e9446ebceeb6451142.js",
-    "6.nuxt.bundle.1f23087e80305bb18bff.js",
-    "7.nuxt.bundle.feee15af0575652f05b2.js",
-    "8.nuxt.bundle.2dbb10ee54fa7e3e0178.js",
-    "9.nuxt.bundle.b4b2f48522abda36ff11.js",
-    "10.nuxt.bundle.88aa274802e8b23dc071.js",
-    "11.nuxt.bundle.380968eaa69e42edfd94.js",
-    "12.nuxt.bundle.d38ae328906779d9af10.js",
-    "1.nuxt.bundle.4c40bf74feb5ed333870.js",
-    "14.nuxt.bundle.5d4d1c302de1c23570b5.js",
-    "15.nuxt.bundle.47d9f25a68e83ee712a8.js",
-    "16.nuxt.bundle.a3285cc284cdb632d533.js",
-    "17.nuxt.bundle.c52342508ca9882ff731.js",
-    "18.nuxt.bundle.cfb28535077dd36f6c19.js",
-    "19.nuxt.bundle.489e8cef55dea017501e.js",
-    "20.nuxt.bundle.01ba04c50de1d1ce529f.js",
-    "21.nuxt.bundle.df584c022774277f3f07.js",
-    "22.nuxt.bundle.a2b398927af9eca53db6.js",
+    "13.nuxt.bundle.33f188794f522454466c.js",
+    "0.nuxt.bundle.bba63e3406c68ff6527d.js",
+    "2.nuxt.bundle.ed489251811c30e3dca2.js",
+    "3.nuxt.bundle.48ec31ccf62a56dcd71d.js",
+    "4.nuxt.bundle.86cba6e3916dcfdf7797.js",
+    "5.nuxt.bundle.88c18317b25b0402491e.js",
+    "6.nuxt.bundle.c05e5f899cad30f0a3ce.js",
+    "7.nuxt.bundle.9fe6bc0da0a4ff4b3304.js",
+    "8.nuxt.bundle.7032436d587356d0b1d4.js",
+    "9.nuxt.bundle.0d6eb0366c077f0bf271.js",
+    "10.nuxt.bundle.8e2232341f04f20dd7c0.js",
+    "11.nuxt.bundle.8679ed4c96f2658b8ca0.js",
+    "12.nuxt.bundle.4808d2fe726446d15707.js",
+    "1.nuxt.bundle.9d01bb0e9509ece0d6d1.js",
+    "14.nuxt.bundle.b03582c8fa08f74864d5.js",
+    "15.nuxt.bundle.cf0e0e6a030b8b476240.js",
+    "16.nuxt.bundle.f56bfc05b843bb138951.js",
+    "17.nuxt.bundle.f3689701094e4e58c813.js",
+    "18.nuxt.bundle.bf80b0e01e7c7794c296.js",
+    "19.nuxt.bundle.e7c0ba4aea21bc5b364a.js",
+    "20.nuxt.bundle.9c4e54dce4c8e8ca15b3.js",
+    "21.nuxt.bundle.34f5f5c0b6aaab2aec06.js",
+    "22.nuxt.bundle.8596c6b0c345f2c05eae.js",
     "vendor.bundle.c0b0e467445fb591fe17.js",
-    "nuxt.bundle.ced4f66035761d3c1866.js",
-    "manifest.6a0bc29079d8a097c8fd.js",
+    "nuxt.bundle.a4b119673caf4afabc07.js",
+    "manifest.e946e7c0b027ff3a6533.js",
     "index.html"
   ],
   "initial": [
-    "manifest.6a0bc29079d8a097c8fd.js",
+    "manifest.e946e7c0b027ff3a6533.js",
     "vendor.bundle.c0b0e467445fb591fe17.js",
-    "nuxt.bundle.ced4f66035761d3c1866.js"
+    "nuxt.bundle.a4b119673caf4afabc07.js"
   ],
   "async": [
-    "13.nuxt.bundle.8ca85175932e6e684be4.js",
-    "0.nuxt.bundle.831f79839832e7b5d0de.js",
-    "2.nuxt.bundle.6d7feafc0ab1999c9eb2.js",
-    "3.nuxt.bundle.d1393a09a7c1a680fca9.js",
-    "4.nuxt.bundle.f2c7cf4cb355f7386316.js",
-    "5.nuxt.bundle.a8e9446ebceeb6451142.js",
-    "6.nuxt.bundle.1f23087e80305bb18bff.js",
-    "7.nuxt.bundle.feee15af0575652f05b2.js",
-    "8.nuxt.bundle.2dbb10ee54fa7e3e0178.js",
-    "9.nuxt.bundle.b4b2f48522abda36ff11.js",
-    "10.nuxt.bundle.88aa274802e8b23dc071.js",
-    "11.nuxt.bundle.380968eaa69e42edfd94.js",
-    "12.nuxt.bundle.d38ae328906779d9af10.js",
-    "1.nuxt.bundle.4c40bf74feb5ed333870.js",
-    "14.nuxt.bundle.5d4d1c302de1c23570b5.js",
-    "15.nuxt.bundle.47d9f25a68e83ee712a8.js",
-    "16.nuxt.bundle.a3285cc284cdb632d533.js",
-    "17.nuxt.bundle.c52342508ca9882ff731.js",
-    "18.nuxt.bundle.cfb28535077dd36f6c19.js",
-    "19.nuxt.bundle.489e8cef55dea017501e.js",
-    "20.nuxt.bundle.01ba04c50de1d1ce529f.js",
-    "21.nuxt.bundle.df584c022774277f3f07.js",
-    "22.nuxt.bundle.a2b398927af9eca53db6.js"
+    "13.nuxt.bundle.33f188794f522454466c.js",
+    "0.nuxt.bundle.bba63e3406c68ff6527d.js",
+    "2.nuxt.bundle.ed489251811c30e3dca2.js",
+    "3.nuxt.bundle.48ec31ccf62a56dcd71d.js",
+    "4.nuxt.bundle.86cba6e3916dcfdf7797.js",
+    "5.nuxt.bundle.88c18317b25b0402491e.js",
+    "6.nuxt.bundle.c05e5f899cad30f0a3ce.js",
+    "7.nuxt.bundle.9fe6bc0da0a4ff4b3304.js",
+    "8.nuxt.bundle.7032436d587356d0b1d4.js",
+    "9.nuxt.bundle.0d6eb0366c077f0bf271.js",
+    "10.nuxt.bundle.8e2232341f04f20dd7c0.js",
+    "11.nuxt.bundle.8679ed4c96f2658b8ca0.js",
+    "12.nuxt.bundle.4808d2fe726446d15707.js",
+    "1.nuxt.bundle.9d01bb0e9509ece0d6d1.js",
+    "14.nuxt.bundle.b03582c8fa08f74864d5.js",
+    "15.nuxt.bundle.cf0e0e6a030b8b476240.js",
+    "16.nuxt.bundle.f56bfc05b843bb138951.js",
+    "17.nuxt.bundle.f3689701094e4e58c813.js",
+    "18.nuxt.bundle.bf80b0e01e7c7794c296.js",
+    "19.nuxt.bundle.e7c0ba4aea21bc5b364a.js",
+    "20.nuxt.bundle.9c4e54dce4c8e8ca15b3.js",
+    "21.nuxt.bundle.34f5f5c0b6aaab2aec06.js",
+    "22.nuxt.bundle.8596c6b0c345f2c05eae.js"
   ],
   "modules": {
     "18313516": [
       13
     ],
-    "37281035": [
+    "33249173": [
       3
     ],
     "55558259": [
@@ -74,6 +74,12 @@
     ],
     "67745009": [
       24
+    ],
+    "73140665": [
+      15
+    ],
+    "93984388": [
+      5
     ],
     "b5051100": [
       23
@@ -489,71 +495,74 @@
     "979480ac": [
       1
     ],
-    "c535d864": [
+    "1c8d10d7": [
       22
     ],
-    "c519a962": [
+    "1c9b2858": [
       21
     ],
-    "c4fd7a60": [
+    "1ca93fd9": [
       20
     ],
-    "c4e14b5e": [
+    "1cb7575a": [
       19
     ],
-    "c4c51c5c": [
+    "1cc56edb": [
       18
     ],
-    "c4a8ed5a": [
+    "1cd3865c": [
       17
-    ],
-    "36c56bae": [
-      16
-    ],
-    "bc38f71c": [
-      15
-    ],
-    "bc1cc81a": [
-      14
-    ],
-    "bc009918": [
-      0
-    ],
-    "bbe46a16": [
-      12
-    ],
-    "bbc83b14": [
-      11
-    ],
-    "bbac0c12": [
-      10
-    ],
-    "36d3832f": [
-      9
-    ],
-    "36e19ab0": [
-      8
-    ],
-    "36efb231": [
-      7
-    ],
-    "36fdc9b2": [
-      6
-    ],
-    "370be133": [
-      5
-    ],
-    "3719f8b4": [
-      4
-    ],
-    "373627b6": [
-      2
     ],
     "606e7276": [
       13
     ],
+    "94252e92": [
+      16
+    ],
+    "07bb2889": [
+      15
+    ],
+    "07c9400a": [
+      14
+    ],
+    "07d7578b": [
+      0
+    ],
+    "07e56f0c": [
+      12
+    ],
+    "07f3868d": [
+      11
+    ],
+    "08019e0e": [
+      10
+    ],
+    "9408ff90": [
+      9
+    ],
+    "93ecd08e": [
+      8
+    ],
+    "93d0a18c": [
+      7
+    ],
+    "93b4728a": [
+      6
+    ],
+    "937c1486": [
+      4
+    ],
+    "935fe584": [
+      3
+    ],
+    "9343b682": [
+      2
+    ],
     "1871ccc2": [
       1
+    ],
+    "27a668e4": [
+      13
     ],
     "1332370f": [
       1
@@ -573,74 +582,68 @@
     "90531e4e": [
       1
     ],
+    "3ab2189e": [
+      16
+    ],
+    "6e4a4c94": [
+      9
+    ],
+    "2c6afa7a": [
+      8
+    ],
+    "79dbce27": [
+      7
+    ],
+    "5c6ca85d": [
+      6
+    ],
+    "25f537d9": [
+      5
+    ],
+    "f07527e2": [
+      4
+    ],
+    "69d3a46c": [
+      2
+    ],
     "1d41aa5a": [
       1
-    ],
-    "405caefa": [
-      22
-    ],
-    "616b0248": [
-      21
-    ],
-    "83b29826": [
-      20
-    ],
-    "c4459acc": [
-      19
-    ],
-    "de85fda6": [
-      18
-    ],
-    "2551bbdc": [
-      17
     ],
     "602a04d9": [
       13
     ],
-    "7476cf7f": [
-      15
+    "555f0e3e": [
+      22
     ],
-    "2461ed3c": [
-      14
+    "7d5ae754": [
+      21
     ],
-    "23fe6b01": [
-      0
+    "27cdf11b": [
+      20
     ],
-    "57f14f36": [
-      12
+    "33f4b1f0": [
+      19
     ],
-    "12e6edaa": [
-      11
+    "58314a66": [
+      18
     ],
-    "b310b230": [
+    "9db4cebc": [
+      17
+    ],
+    "163fb76c": [
       10
     ],
-    "140e7d40": [
-      2
+    "0ff97db3": [
+      11
     ],
-    "13daaafe": [
-      3
+    "4c416782": [
+      12
     ],
-    "60048bb8": [
-      4
+    "71b58e51": [
+      0
     ],
-    "5c8284fa": [
-      5
-    ],
-    "3aad49e1": [
-      6
-    ],
-    "995ed2a0": [
-      7
-    ],
-    "20ceff02": [
-      8
-    ],
-    "618ae494": [
-      9
-    ],
-    "3fb5a97b": [
-      16
+    "0fed1e57": [
+      14
     ],
     "3ce0d33c": [
       1

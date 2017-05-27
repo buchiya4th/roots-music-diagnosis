@@ -19,6 +19,7 @@
   },
   "devDependencies": {
     "babel-eslint": "^7.1.1",
+    "css-loader": "^0.28.3",
     "eslint": "^3.15.0",
     "eslint-config-standard": "^6.2.1",
     "eslint-loader": "^1.6.1",
@@ -28,6 +29,11 @@
     "node-sass": "^4.5.3",
     "npm-run-all": "^4.0.2",
     "pug": "^2.0.0-rc.1",
-    "sass-loader": "^6.0.5"
+    "pug-html-loader": "^1.1.4",
+    "sass-loader": "^6.0.5",
+    "style-loader": "^0.18.1",
+    "vue-html-loader": "^1.2.4",
+    "vue-loader": "^12.2.0",
+    "vue-style-loader": "^3.0.1"
   }
 }

@@ -15,3 +15,9 @@
   margin: 40px auto;
 }
 </style>
+
+<script>
+export default {
+  transition: 'page'
+}
+</script>
