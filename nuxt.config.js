@@ -2,6 +2,9 @@ module.exports = {
   /*
   ** Headers of the page
   */
+  router: {
+    base: '/roots-music-diagnosis/'
+  },
   head: {
     title: 'ルーツ音楽診断',
     meta: [
@@ -34,32 +37,6 @@ module.exports = {
         })
       }
     }
-  },
-  generate: {
-    routes: [
-      '/roots-music-diagnosis/',
-      '/roots-music-diagnosis/p1',
-      '/roots-music-diagnosis/p2',
-      '/roots-music-diagnosis/p3',
-      '/roots-music-diagnosis/p4',
-      '/roots-music-diagnosis/p5',
-      '/roots-music-diagnosis/p6',
-      '/roots-music-diagnosis/p7',
-      '/roots-music-diagnosis/p8',
-      '/roots-music-diagnosis/p9',
-      '/roots-music-diagnosis/p10',
-      '/roots-music-diagnosis/p11',
-      '/roots-music-diagnosis/p12',
-      '/roots-music-diagnosis/p13',
-      '/roots-music-diagnosis/p14',
-      '/roots-music-diagnosis/p15',
-      '/roots-music-diagnosis/a1',
-      '/roots-music-diagnosis/a2',
-      '/roots-music-diagnosis/a3',
-      '/roots-music-diagnosis/a4',
-      '/roots-music-diagnosis/a5',
-      '/roots-music-diagnosis/a6'
-    ]
   },
   css: [
     '~assets/css/style.css'
