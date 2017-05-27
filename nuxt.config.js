@@ -2,6 +2,7 @@ module.exports = {
   /*
   ** Headers of the page
   */
+  srcDir: 'roots-music-diagnosis/',
   head: {
     title: 'ルーツ音楽診断',
     meta: [
