@@ -1,5 +1,5 @@
 {
-  "publicPath": "/roots-music-diagnosis/_nuxt/",
+  "publicPath": "/roots-music-diagnosis/dist/_nuxt/",
   "all": [
     "13.nuxt.bundle.e631831ad7a0352e2292.js",
     "0.nuxt.bundle.831f79839832e7b5d0de.js",
@@ -25,14 +25,14 @@
     "21.nuxt.bundle.7b48af60b06e48ce5abb.js",
     "22.nuxt.bundle.1505d276cde585926b94.js",
     "vendor.bundle.c0b0e467445fb591fe17.js",
-    "nuxt.bundle.77036e70fb96df71c974.js",
-    "manifest.61e243eca6e0a94a15da.js",
+    "nuxt.bundle.955a65abc97ec4924247.js",
+    "manifest.2caaa14fba31d5852b21.js",
     "index.html"
   ],
   "initial": [
-    "manifest.61e243eca6e0a94a15da.js",
+    "manifest.2caaa14fba31d5852b21.js",
     "vendor.bundle.c0b0e467445fb591fe17.js",
-    "nuxt.bundle.77036e70fb96df71c974.js"
+    "nuxt.bundle.955a65abc97ec4924247.js"
   ],
   "async": [
     "13.nuxt.bundle.e631831ad7a0352e2292.js",

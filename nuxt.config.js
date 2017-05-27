@@ -3,7 +3,7 @@ module.exports = {
   ** Headers of the page
   */
   router: {
-    base: '/roots-music-diagnosis/'
+    base: '/roots-music-diagnosis/dist/'
   },
   head: {
     title: 'ルーツ音楽診断',
