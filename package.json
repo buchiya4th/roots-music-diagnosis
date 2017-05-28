@@ -4,36 +4,34 @@
   "description": "ルーツ音楽診断",
   "author": "buchiya4th <buchiya4th@gmail.com>",
   "private": true,
-  "dependencies": {
-    "nuxt": "latest"
-  },
   "scripts": {
-    "dev": "nuxt",
-    "build": "nuxt build",
-    "start": "nuxt start",
-    "generate": "nuxt generate",
-    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
-    "precommit": "npm run lint",
-    "dev:scss": "node-sass assets/scss/style.scss --output-style compressed assets/css/style.css -w --source-map true",
-    "watch": "run-p dev dev:scss"
+    "server": "browser-sync start --config bs-config.js",
+    "watch:css": "node-sass src/scss/style.scss app/css/style.css -w --source-map true",
+    "watch:wepback": "webpack -w",
+    "start": "run-p server watch:*"
   },
   "devDependencies": {
-    "babel-eslint": "^7.1.1",
-    "css-loader": "^0.28.3",
-    "eslint": "^3.15.0",
-    "eslint-config-standard": "^6.2.1",
-    "eslint-loader": "^1.6.1",
-    "eslint-plugin-html": "^2.0.0",
-    "eslint-plugin-promise": "^3.4.1",
-    "eslint-plugin-standard": "^2.0.1",
-    "node-sass": "^4.5.3",
-    "npm-run-all": "^4.0.2",
-    "pug": "^2.0.0-rc.1",
-    "pug-html-loader": "^1.1.4",
-    "sass-loader": "^6.0.5",
-    "style-loader": "^0.18.1",
-    "vue-html-loader": "^1.2.4",
-    "vue-loader": "^12.2.0",
-    "vue-style-loader": "^3.0.1"
+    "babel": "^6.5.2",
+    "babel-core": "^6.22.1",
+    "babel-loader": "^6.2.10",
+    "babel-plugin-transform-runtime": "^6.22.0",
+    "babel-preset-es2015": "^6.24.1",
+    "browser-sync": "^2.18.6",
+    "css-loader": "^0.26.1",
+    "node-sass": "^4.4.0",
+    "npm-run-all": "^4.0.1",
+    "pug-html-loader": "^1.1.0",
+    "sass-loader": "^4.1.1",
+    "vue-html-loader": "^1.2.3",
+    "vue-loader": "^10.0.2",
+    "vue-style-loader": "^1.0.0",
+    "vue-template-compiler": "^2.1.10",
+    "webpack": "^1.14.0",
+    "yarn": "^0.19.1"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "vue": "^2.1.10",
+    "vue-router": "^2.2.0"
   }
 }
