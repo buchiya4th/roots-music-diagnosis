@@ -3,6 +3,6 @@
   p.questionText
     | 人と変わったことが好き。
   ul.answerList
-    li: router-link(to="/a/a5/") はい
-    li: router-link(to="/a/a6/") いいえ
+    li: router-link(to="/a/a6/") はい
+    li: router-link(to="/a/a5/") いいえ
 </template>
