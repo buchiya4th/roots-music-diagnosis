@@ -12,7 +12,7 @@
 <style>
 .leadText {
   max-width: 510px;
-  margin: 40px auto;
+  margin: 40px auto 80px;
 }
 </style>
 
