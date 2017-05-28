@@ -4,12 +4,13 @@
     span.answerSub: | あなたには・・・
     br
     span.recoGenre: | ジャズがおすすめ！
-  p.answerText
-    | 多面的な性格なあなたはジャズがぴったり！
-  .reco
-    h2.recoTitle: | おすすめ曲
-    ul.recoList
-      li: | Fly Me to the Moon｜Frank Sinatra（フランク・シナトラ）
-      li: | My Favorite Things｜John Coltrane（ジョン・コルトレーン）
-      li: | So What｜James Brown（ジェームス・ブラウン）
+  .answerBody
+    p.answerText
+      | 多面的な性格なあなたはジャズがぴったり！
+    .reco
+      h2.recoTitle: | おすすめ曲
+      ul.recoList
+        li: a(href="https://www.youtube.com/watch?v=mQR0bXO_yI8", target="_blank"): | Fly Me to the Moon｜Frank Sinatra（フランク・シナトラ）
+        li: a(href="https://www.youtube.com/watch?v=1kPXw6YaCEY", target="_blank"): | My Favorite Things｜John Coltrane（ジョン・コルトレーン）
+        li: a(href="https://www.youtube.com/watch?v=DEC8nqT6Rrk", target="_blank"): | So What｜Miles Davis（マイルス・デイヴィス）
 </template>
