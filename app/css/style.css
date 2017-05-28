@@ -10,7 +10,13 @@ html {
   line-height: 1.6; }
 
 body {
-  font-family: Lato, "Noto Sans JP", "游ゴシック Medium", "游ゴシック体", "Yu Gothic Medium", YuGothic, "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif; }
+  font-family: Lato, "Noto Sans JP", "游ゴシック Medium", "游ゴシック体", "Yu Gothic Medium", YuGothic, "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+  background: #222;
+  color: #fff; }
+
+a {
+  color: #fff;
+  text-decoration: none; }
 
 .wrap {
   margin: 0 10px; }
@@ -22,7 +28,7 @@ body {
 
 .questionText {
   max-width: 600px;
-  margin: 20px auto;
+  margin: 100px auto 100px;
   font-size: 20px;
   font-weight: bold; }
 
@@ -33,17 +39,17 @@ body {
   text-align: center; }
   .answerList li {
     display: inline-block;
-    width: 40%;
-    margin: 10px;
-    background: #dff;
+    width: 48%;
     text-align: center; }
+    .answerList li + li {
+      margin-left: 4%; }
     .answerList li.textL {
       text-align: left; }
     .answerList li a {
       display: block;
       padding: 20px;
       border-radius: 4px;
-      background: #7FBA00;
+      background: #f75d09;
       font-weight: bold;
       color: #fff;
       text-decoration: none;
@@ -64,7 +70,12 @@ body {
     color: #f75d09; }
 
 .reco .recoTitle {
+  margin: 2em -0px 0;
   font-size: 18px; }
+
+.reco .recoList {
+  margin: .5em -0px 0;
+  padding-left: 1em; }
 
 @keyframes fadeIn {
   from {
