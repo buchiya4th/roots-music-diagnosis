@@ -59,6 +59,13 @@ body {
       vertical-align: middle;
     }
   }
+  &.start {
+    li {
+      width: 100%;
+      max-width: 510px;
+      margin: 0;
+    }
+  }
 }
 
 .answerTile {
